@@ -26,6 +26,15 @@ Original publications: **SmartXY**. Repository curation and personal commentary:
 
 Engineering Reference 1.2 supersedes the technical conclusions in Engineering Certified Smart Eyewear 1.1. Buyer Decision Guide 1.4 is its separate buyer companion. Distribution copies prepared 12 September 2026. This preparation date does not assert an earlier external publication date.
 
+## Original planning templates
+
+These blank templates are original work by Vanda / VandaGeek. They contain no customer data, measured product results or market estimates.
+
+- [Requirements Brief](templates/GH01_Requirements_Brief.md)
+- [SDK Acceptance Record](templates/GH02_SDK_Acceptance_Record.md)
+- [Market Data Card](templates/GH03_Market_Data_Card.md)
+- [Battery Test Profile](templates/GH04_Battery_Test_Profile.md)
+
 ## Rights
 
 Retain each document's attribution, qualifications and notices. Public availability does not add a blanket MIT or CC BY licence. See [RIGHTS.md](RIGHTS.md).
